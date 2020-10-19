@@ -1,4 +1,4 @@
-# CodingDecoding: Research
+# Coding-Decoding: Research
 
 ## Sum Product Decoding
 
